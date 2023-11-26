@@ -23,3 +23,11 @@ pip install -r requirements.txt
 python main.py
 ```
 6. Visit 127.0.0.1:5000
+
+# Fixing some issues:
+1. In case if your OS cannot enter to virtual enviroment follow this instructions:
+1.1 Open Powershell with Admin
+1.2 Enter this command
+```
+set-executionpolicy remotesigned
+```
