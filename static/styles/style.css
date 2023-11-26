@@ -1,0 +1,74 @@
+.Nav{
+    display: flex;
+    font-size: 5vh;
+    background-color: rgb(255, 187, 62);
+    
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards-left{
+    text-align: center;
+
+}
+
+.cards-right{
+    text-align: center;
+
+
+}
+
+.output-card{
+    background-color: rgba(159, 179, 250, 0.124);
+    margin-top: 3vw;
+}
+
+
+.logo{
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: 3vw;
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+.main-form{
+    width: 80vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+
+}
+
+.input-form{
+    background-color: rgba(159, 179, 250, 0.124);
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.btn-inp{
+    max-height: 15vh;
+    margin-top: 1vh;
+    display: flex;
+    justify-content: center;
+}
+
+.card-marg{
+    text-align: start;
+    margin-top: 1vh;
+}
+
+.animegavno{
+    background-color: rgba(159, 179, 250, 0.124);
+    border-radius: 10px;
+    font-size: 1.5vw;
+    
+}
+
+input { 
+    text-align: center; 
+}
